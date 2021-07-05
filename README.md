@@ -4,3 +4,5 @@
 - Language used --> Lua
 - check it out [here](https://www.youtube.com/watch?v=V4zvnwoVYC8)
 
+Simulation looks like this.
+
