@@ -4,5 +4,5 @@
 - Language used --> Lua
 - check it out [here](https://www.youtube.com/watch?v=V4zvnwoVYC8)
 
-Simulation looks like this.
+Simulation looks like this![Image](https://github.com/tarannum-perween/Line-Following-Drone-/blob/main/Image.png)
 
