@@ -1,4 +1,4 @@
-# Line-Following-Drone-
+# Line-Following-Drone
 
 - In this project I used Copelliasim(V-rep) simulator to build Line Following drone.
 - Language used --> Lua
